@@ -1,2 +1,2 @@
 # kaggle
-Kaggle Work Playground
+Repository of some Kaggle competitions Ive worked on.
