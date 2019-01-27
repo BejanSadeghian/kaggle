@@ -1,0 +1,5 @@
+pandas
+numpy
+autokeras==0.3.6
+torch==0.4.1
+torchvision==0.2.1
